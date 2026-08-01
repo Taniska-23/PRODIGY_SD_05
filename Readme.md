@@ -48,7 +48,8 @@ This project scrapes `books.toscrape.com`, a website explicitly created for
 scraping practice. Always check a site's `robots.txt` and terms of service
 before scraping any real e-commerce site.
 
-## Author,
+## Author
 
-Taniska Tripathi,
+Taniska Tripathi
+
 Prodigy Infotech-Task05
