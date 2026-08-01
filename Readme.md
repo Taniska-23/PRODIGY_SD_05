@@ -47,3 +47,7 @@ Output will be saved as `products.csv` in the same folder.
 This project scrapes `books.toscrape.com`, a website explicitly created for
 scraping practice. Always check a site's `robots.txt` and terms of service
 before scraping any real e-commerce site.
+
+##Author
+Taniska Tripathi
+Prodigy Infotech-Task05
